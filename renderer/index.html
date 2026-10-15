@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>无畏契约准星收集</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <h1 class="title">无畏契约准星收集</h1>
+    <div class="search-wrap">
+      <input id="search" class="search" type="text" placeholder="搜索准星、选手名字或队伍…" />
+    </div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="community">
+      社区准星 <span id="community-count" class="count"></span>
+    </button>
+    <button class="tab-btn" data-tab="pros">
+      职业选手准星 <span id="pros-count" class="count"></span>
+    </button>
+  </nav>
+
+  <main class="content">
+    <section id="panel-community" class="panel">
+      <div id="community-grid" class="grid"></div>
+    </section>
+    <section id="panel-pros" class="panel hidden">
+      <div id="pros-grid" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    职业选手数据来自公开站点，定期更新；预览为静止准星效果。复制代码后到游戏「设置 → 准星 → 导入准星代码」粘贴即可。
+  </footer>
+
+  <script src="crosshair.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

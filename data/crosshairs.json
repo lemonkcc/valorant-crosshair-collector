@@ -1,0 +1,1140 @@
+{
+  "updatedAt": "2026-10-15",
+  "community": [
+    {
+      "id": "default",
+      "name": "默认准星",
+      "tags": [
+        "基础",
+        "经典"
+      ],
+      "code": "0;P"
+    },
+    {
+      "id": "dot",
+      "name": "纯点准星",
+      "tags": [
+        "点",
+        "精确"
+      ],
+      "code": "0;P;c;5;o;1;d;1;0b;0;1b;0"
+    },
+    {
+      "id": "circle",
+      "name": "圆形准星",
+      "tags": [
+        "圆形",
+        "经典"
+      ],
+      "code": "0;s;1;P;c;5;h;0;0t;4;0l;1;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "circle-outline",
+      "name": "圆形准星（带外圈）",
+      "tags": [
+        "圆形",
+        "外圈"
+      ],
+      "code": "0;P;c;5;h;0;0t;4;0l;1;0o;2;0a;1;0f;0;1b;1;1t;6;1l;1;1o;3;1a;0.5;1m;0;1f;0"
+    },
+    {
+      "id": "thin-cross",
+      "name": "细十字",
+      "tags": [
+        "十字",
+        "竞技"
+      ],
+      "code": "0;P;c;1;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "small-cross",
+      "name": "小十字",
+      "tags": [
+        "十字",
+        "紧凑"
+      ],
+      "code": "0;P;c;7;h;0;0t;2;0l;3;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-1",
+      "name": "The Sun",
+      "tags": [],
+      "code": "0;P;c;4;h;0;f;0;0l;2;0a;1;0f;0;1t;4;1l;1;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-2",
+      "name": "Sun",
+      "tags": [],
+      "code": "0;P;c;3;h;0;d;1;z;6;a;0.538;m;1;0t;10;0l;2;0o;5;0a;0.137;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-4",
+      "name": "Simple X",
+      "tags": [],
+      "code": "0;P;c;4;h;0;d;1;f;0;0t;6;0l;1;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-5",
+      "name": "Beginner Friendly",
+      "tags": [],
+      "code": "0;P;c;1;o;1;d;1;0a;1;0e;0.1;1b;0"
+    },
+    {
+      "id": "vcrdb-6",
+      "name": "Target",
+      "tags": [],
+      "code": "0;P;c;1;h;0;d;1;z;1;f;0;0t;5;0l;1;0o;2;0a;1;0f;0;1t;1;1l;1;1o;3;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-7",
+      "name": "Windmill",
+      "tags": [],
+      "code": "0;P;c;1;t;6;o;1;d;1;z;6;a;0;f;0;m;1;0t;10;0l;20;0o;20;0a;1;0m;1;0e;0.1;1t;10;1l;10;1o;40;1a;1;1m;0"
+    },
+    {
+      "id": "vcrdb-9",
+      "name": "Flappy Bird",
+      "tags": [],
+      "code": "0;P;c;1;t;3;o;1;f;0;0t;6;0l;20;0o;13;0a;1;0f;0;1t;9;1l;4;1o;9;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-10",
+      "name": "Smiley",
+      "tags": [],
+      "code": "0;P;c;7;t;2;o;1;d;1;z;3;a;0;f;0;0t;10;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-11",
+      "name": "Clown",
+      "tags": [],
+      "code": "0;P;c;7;t;2;o;1;d;1;z;3;f;0;0t;10;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-12",
+      "name": "Wheel",
+      "tags": [],
+      "code": "0;P;c;7;o;1;d;1;f;0;0l;4;0o;1;0a;0;0f;0;1t;6;1l;1;1o;3;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-13",
+      "name": "Exclamation",
+      "tags": [],
+      "code": "0;P;c;7;t;4;o;1;d;1;z;6;a;0;f;0;0t;6;0l;4;0o;0;0a;1;0f;0;1l;5;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-14",
+      "name": "Ornament",
+      "tags": [],
+      "code": "0;P;c;7;o;0.8;f;0;0t;5;0l;2;0o;0;0a;1;0f;0;1t;1;1l;1;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-15",
+      "name": "Webs",
+      "tags": [],
+      "code": "0;P;c;7;h;0;f;0;0l;1;0a;1;0f;0;1t;10;1l;1;1o;1;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-16",
+      "name": "Pokéball",
+      "tags": [],
+      "code": "0;P;c;7;o;1;d;1;f;0;0t;10;0l;5;0o;0;0a;1;0f;0;1t;6;1l;1;1o;5;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-17",
+      "name": "Medkit",
+      "tags": [],
+      "code": "0;P;c;7;h;0;f;0;0t;6;0l;1;0o;0;0a;1;0f;0;1t;10;1l;1;1o;5;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-18",
+      "name": "Shuriken",
+      "tags": [],
+      "code": "0;P;c;7;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1t;8;1l;1;1o;1;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-19",
+      "name": "Instagram",
+      "tags": [],
+      "code": "0;P;c;6;h;0;d;1;z;1;f;0;s;0;0t;4;0l;1;0o;2;0a;1;0f;0;1t;10;1l;1;1o;5;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-20",
+      "name": "Flower 1",
+      "tags": [],
+      "code": "0;P;c;6;o;1;d;1;z;4;f;0;m;1;0t;8;0l;3;0o;2;0a;0;0f;0;1l;3;1o;3;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-21",
+      "name": "Hashtag",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0b;0;1t;7;1l;1;1o;1;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-22",
+      "name": "Church crosses",
+      "tags": [],
+      "code": "0;P;h;0;d;1;z;3;f;0;0t;3;0l;14;0o;6;0a;1;0f;0;1t;9;1l;3;1o;12;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-23",
+      "name": "Windows",
+      "tags": [],
+      "code": "0;P;o;1;d;1;z;6;0b;0;1t;6;1l;3;1o;0;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-24",
+      "name": "Burger",
+      "tags": [],
+      "code": "0;P;t;2;o;1;d;1;f;0;0t;10;0l;3;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-25",
+      "name": "Star",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1t;8;1l;1;1o;1;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-26",
+      "name": "TicTacToe",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0t;10;0l;1;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-27",
+      "name": "Daisy",
+      "tags": [],
+      "code": "0;P;h;0;0t;10;0l;3;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-28",
+      "name": "Big one",
+      "tags": [],
+      "code": "0;P;t;6;o;1;0t;4;0l;1;0o;15;0a;0;0f;0;1t;4;1l;7;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-29",
+      "name": "Mushrooms",
+      "tags": [],
+      "code": "0;P;o;1;f;0;0t;4;0l;1;0o;5;0a;0;0f;0;1l;4;1o;3;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-30",
+      "name": "4 Usbs",
+      "tags": [],
+      "code": "0;P;o;1;f;0;0t;3;0l;2;0a;1;0f;0;1t;1;1l;5;1o;2;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-31",
+      "name": "Shroud",
+      "tags": [],
+      "code": "0;P;c;4;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-32",
+      "name": "Wardell",
+      "tags": [],
+      "code": "0;P;c;5;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-33",
+      "name": "Nitro",
+      "tags": [],
+      "code": "0;P;h;0;d;1;f;0;0t;1;0l;3;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-34",
+      "name": "Hiko",
+      "tags": [],
+      "code": "0;P;c;1;h;0;d;1;z;1;f;0;0t;1;0l;2;0a;1;0f;0;1l;5;1o;4;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-35",
+      "name": "Arrows",
+      "tags": [],
+      "code": "0;P;h;0;f;0;m;1;0t;4;0l;1;0a;1;0f;0;1l;5;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-36",
+      "name": "Snowflake 2",
+      "tags": [],
+      "code": "0;P;h;0;f;0;m;1;0l;3;0o;2;0a;1;0f;0;1t;8;1l;1;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-37",
+      "name": "Circle",
+      "tags": [],
+      "code": "0;P;c;1;h;0;m;1;0l;2;0o;2;0a;1;0f;0;1t;4;1l;1;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-38",
+      "name": "xbox",
+      "tags": [],
+      "code": "0;P;c;1;h;0;f;0;m;1;0t;3;0l;3;0o;2;0a;1;0f;0;1t;6;1l;1;1o;4;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-39",
+      "name": "Flower 2",
+      "tags": [],
+      "code": "0;P;c;6;h;0;d;1;f;0;0l;3;0a;1;0f;0;1t;4;1o;3;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-40",
+      "name": "Diamond",
+      "tags": [],
+      "code": "0;P;c;5;h;0;f;0;0t;1;0l;3;0o;0;0a;1;0f;0;1t;3;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-41",
+      "name": "Plungers",
+      "tags": [],
+      "code": "0;P;c;6;t;3;o;0.25;d;1;z;3;a;0.5;f;0;m;1;0t;1;0l;17;0o;20;0a;1;0m;1;1t;9;1l;7;1o;15;1a;0.5;1m;0"
+    },
+    {
+      "id": "vcrdb-42",
+      "name": "Snowflake 1",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0o;0;0a;1;0f;0;1t;4;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-43",
+      "name": "Among Us",
+      "tags": [],
+      "code": "0;P;c;5;t;3;o;1;f;0;m;1;0t;4;0l;5;0o;0;0a;1;0f;0;1t;8;1l;3;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-44",
+      "name": "Asuna",
+      "tags": [],
+      "code": "0;P;o;1;0t;1;0l;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-46",
+      "name": "s0m",
+      "tags": [],
+      "code": "0;P;c;1;h;0;0l;4;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-47",
+      "name": "Flexinja",
+      "tags": [],
+      "code": "0;P;c;4;h;0;0l;5;0o;4;0a;1;1t;3;1l;0;1o;14;1a;0.34"
+    },
+    {
+      "id": "vcrdb-48",
+      "name": "stax",
+      "tags": [],
+      "code": "0;P;c;4;h;0;f;0;s;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-50",
+      "name": "Zest",
+      "tags": [],
+      "code": "0;P;c;1;o;1;f;0;0l;4;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-51",
+      "name": "BuZz",
+      "tags": [],
+      "code": "0;P;c;5;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-53",
+      "name": "Boaster",
+      "tags": [],
+      "code": "0;P;c;1;o;1;d;1;0l;0;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0"
+    },
+    {
+      "id": "vcrdb-54",
+      "name": "Mistic",
+      "tags": [],
+      "code": "0;P;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-55",
+      "name": "Magnum",
+      "tags": [],
+      "code": "0;P;c;1;o;1;d;1;z;3;0t;0;0l;0;0o;0;0a;0;1t;0;1l;0;1a;0"
+    },
+    {
+      "id": "vcrdb-56",
+      "name": "Derke",
+      "tags": [],
+      "code": "0;P;o;1;d;1;f;0;s;0;0t;0;0l;1;0o;0;0a;1;0f;0;1t;0;1l;1;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-57",
+      "name": "otom",
+      "tags": [],
+      "code": "0;P;c;5;h;0;f;0;0t;1;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-59",
+      "name": "Klaus",
+      "tags": [],
+      "code": "0;P;c;1;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1t;0;1l;0;1a;0"
+    },
+    {
+      "id": "vcrdb-60",
+      "name": "Mazino",
+      "tags": [],
+      "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-61",
+      "name": "delz1k",
+      "tags": [],
+      "code": "0;P;c;1;o;0;f;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-62",
+      "name": "keznit",
+      "tags": [],
+      "code": "0;P;c;4;h;0;0b;0;1l;4;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-63",
+      "name": "FNS",
+      "tags": [],
+      "code": "0;P;c;1;o;1;0l;3;0o;5;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-64",
+      "name": "Victor",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0l;4;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-65",
+      "name": "crashies",
+      "tags": [],
+      "code": "0;P;c;1;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-66",
+      "name": "yay",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-68",
+      "name": "ShahZaM",
+      "tags": [],
+      "code": "0;P;c;1;o;1;f;0;0l;5;0a;0.5;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-69",
+      "name": "SicK",
+      "tags": [],
+      "code": "0;P;c;1;o;1;f;0;0l;3;0o;5;0a;1;0f;0;1t;0;1a;0.379"
+    },
+    {
+      "id": "vcrdb-70",
+      "name": "dapr",
+      "tags": [],
+      "code": "0;P;c;1;o;1;f;0;0l;3;0o;5;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-71",
+      "name": "Sinatraa",
+      "tags": [],
+      "code": "0;P;c;5;o;1;f;0;0t;1;0l;3;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-72",
+      "name": "cNed",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-74",
+      "name": "Cryo",
+      "tags": [],
+      "code": "0;P;c;5;h;0;f;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-76",
+      "name": "nAts",
+      "tags": [],
+      "code": "0;P;c;1;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-77",
+      "name": "Subroza",
+      "tags": [],
+      "code": "0;P;c;7;o;0.715;f;0;0t;1;0l;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-78",
+      "name": "ScreaM",
+      "tags": [],
+      "code": "0;P;c;5;o;0.286;d;1;f;0;0t;0;0l;0;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-79",
+      "name": "LuckeRRR",
+      "tags": [],
+      "code": "0;P;c;1;h;0;d;1;a;0.98;0b;0;1b;0"
+    },
+    {
+      "id": "vcrdb-80",
+      "name": "Globe",
+      "tags": [],
+      "code": "0;P;o;1;f;0;0t;10;0l;4;0a;0;0f;0;1t;4;1o;6;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-81",
+      "name": "Rounded Square",
+      "tags": [],
+      "code": "0;P;t;3;o;1;d;1;z;4;f;0;m;1;0l;3;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-82",
+      "name": "Black",
+      "tags": [],
+      "code": "0;P;c;1;t;2;o;0.75;f;0;m;1;0t;1;0l;4;0o;1;0a;0;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-84",
+      "name": "Hollow Circle",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0t;4;0l;1;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-85",
+      "name": "Small Dot",
+      "tags": [],
+      "code": "0;P;d;1;f;0;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-86",
+      "name": "Cloud",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0t;9;0l;1;0o;1;0a;1;0f;0;1t;3;1l;1;1o;4;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-87",
+      "name": "fishychair",
+      "tags": [],
+      "code": "0;P;c;1;h;0;d;1;f;0;0t;6;0l;1;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-88",
+      "name": "Circle Dot",
+      "tags": [],
+      "code": "0;P;c;5;h;0;f;0;0l;2;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-89",
+      "name": "Reyna Flash",
+      "tags": [],
+      "code": "0;P;c;6;t;6;o;0.3;f;0;0t;1;0l;5;0o;5;0a;1;0f;0;1t;10;1l;4;1o;5;1a;0.5;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-90",
+      "name": "Marved",
+      "tags": [],
+      "code": "0;P;c;1;h;0;f;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-91",
+      "name": "Aspas",
+      "tags": [],
+      "code": "0;P;c;5;o;1;d;1;z;3;f;0;0b;0;1b;0"
+    },
+    {
+      "id": "vcrdb-92",
+      "name": "LESS",
+      "tags": [],
+      "code": "0;P;o;0;f;0;0t;1;0l;2;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-93",
+      "name": "PANcada",
+      "tags": [],
+      "code": "0;P;c;1;h;0;s;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-94",
+      "name": "Saadhak",
+      "tags": [],
+      "code": "0;P;c;1;o;1;f;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-95",
+      "name": "Sacy",
+      "tags": [],
+      "code": "0;P;h;0;f;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-96",
+      "name": "neT",
+      "tags": [],
+      "code": "0;P;c;1;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1t;6;1l;0;1o;3;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "vcrdb-97",
+      "name": "valyn",
+      "tags": [],
+      "code": "0;s;1;P;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-98",
+      "name": "JonahP",
+      "tags": [],
+      "code": "0;P;c;5;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vcrdb-99",
+      "name": "Sayaplayer",
+      "tags": [],
+      "code": "0;s;1;P;c;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;1;s;0.75;o;1"
+    },
+    {
+      "id": "vcrdb-100",
+      "name": "trent",
+      "tags": [],
+      "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1a;0;1m;0;1f;0"
+    }
+  ],
+  "pros": [
+    {
+      "id": "dapr",
+      "name": "Dapr",
+      "code": "0;P;c;1;o;1;f;0;0l;3;0o;5;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "hiko",
+      "name": "Hiko",
+      "code": "0;P;c;1;h;0;d;1;z;1;0t;1;0l;2;0a;1;0f;0;1l;5;1o;4;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "shahzam",
+      "name": "ShahZaM",
+      "code": "0;P;c;1;o;1;f;0;0l;5;0a;0.5;0f;0;1b;0"
+    },
+    {
+      "id": "marved",
+      "name": "Marved",
+      "code": "0;P;c;1;h;0;f;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "shroud",
+      "name": "Shroud",
+      "code": "0;P;h;0;0l;5;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "alexis",
+      "name": "alexis",
+      "code": "0;s;1;P;c;7;o;1;d;1;0b;0;1b;0;S;c;5;s;0.64;o;1"
+    },
+    {
+      "id": "jazzyk1ns",
+      "name": "Jazzyk1ns",
+      "code": "0;s;1;P;h;0;f;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;1;s;0.884;o;1"
+    },
+    {
+      "id": "mel",
+      "name": "meL",
+      "code": "0;p;0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0"
+    },
+    {
+      "id": "kat",
+      "name": "kat",
+      "code": "0;c;1;P;u;FF6B6BFF;o;1;0b;0;1t;1;1l;3;1v;3;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "tran",
+      "name": "Tran",
+      "code": "0;s;1;P;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0;S;o;1"
+    },
+    {
+      "id": "asuna",
+      "name": "Asuna",
+      "code": "0;p;0;s;1;P;o;1;f;0;0t;1;0l;2;0v;20;0a;1;0f;0;1l;0;A;o;1;d;1;z;1;0l;0;0f;0;1l;0;S;c;0;s;0.75;o;1"
+    },
+    {
+      "id": "bang",
+      "name": "Bang",
+      "team": "100T",
+      "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0"
+    },
+    {
+      "id": "stellar",
+      "name": "stellar",
+      "team": "100T",
+      "code": "0;P;c;4;u;001331FF;h;0;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "cryocells",
+      "name": "Cryocells",
+      "team": "100T",
+      "code": "0;s;1;P;h;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "derrek",
+      "name": "Derrek",
+      "team": "100T",
+      "code": "0;s;1;P;c;1;o;1;0t;1;0l;3;0a;1;0f;0;1b;0;S;s;0.652"
+    },
+    {
+      "id": "yay",
+      "name": "yay",
+      "team": "C9",
+      "code": "0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "xeppaa",
+      "name": "Xeppaa",
+      "team": "C9",
+      "code": "0;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "vanity",
+      "name": "vanity",
+      "team": "C9",
+      "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "poopello",
+      "name": "Poopello",
+      "team": "EG",
+      "code": "0;P;h;0;0t;1;0l;2;0a;1;0f;0;1l;5;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "bcj",
+      "name": "BcJ",
+      "team": "EG",
+      "code": "0;s;1;P;c;5;o;0.116;f;0;m;1;0l;3;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "ethan",
+      "name": "Ethan",
+      "team": "EG",
+      "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "ardiis",
+      "name": "ardiis",
+      "team": "NRG",
+      "code": "0;s;1;P;h;0;s;0;0l;3;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "fns",
+      "name": "FNS",
+      "team": "NRG",
+      "code": "0;P;c;1;o;1;0l;3;0o;5;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "victor",
+      "name": "Victor",
+      "team": "NRG",
+      "code": "0;P;h;0;f;0;0l;4;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "crashies",
+      "name": "crashies",
+      "team": "NRG",
+      "code": "0;s;1;P;c;1;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "tenz",
+      "name": "TenZ",
+      "team": "Sentinels",
+      "code": "0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1"
+    },
+    {
+      "id": "sick",
+      "name": "Sick",
+      "team": "Sentinels",
+      "code": "0;P;c;1;o;1;f;0;0l;3;0o;5;0a;1;0f;0;1t;0;1a;0.379"
+    },
+    {
+      "id": "patrone",
+      "name": "Patrone",
+      "team": "Sentinels",
+      "code": "0;s;1;P;c;8;u;D099E2FF;o;1;d;1;b;1;0l;0;0o;0;0a;0;0f;0;1b;0;S;c;0;s;0.5;o;1"
+    },
+    {
+      "id": "rossy",
+      "name": "Rossy",
+      "team": "Sentinels",
+      "code": "0;P;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "pancada",
+      "name": "pANcada",
+      "team": "Sentinels",
+      "code": "0;P;c;1;h;0;s;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "dephh",
+      "name": "dephh",
+      "team": "Sentinels",
+      "code": "0;P;h;0;0l;5;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "net",
+      "name": "neT",
+      "code": "0;P;c;1;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1t;6;1l;0;1o;3;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "valyn",
+      "name": "valyn",
+      "code": "0;s;1;P;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "trent",
+      "name": "trent",
+      "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1a;0;1m;0;1f;0"
+    },
+    {
+      "id": "jonahp",
+      "name": "JonahP",
+      "code": "0;P;c;5;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "boaster",
+      "name": "Boaster",
+      "team": "Fnatic",
+      "code": "0;s;1;P;c;5;o;1;d;1;f;0;s;0;0l;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1f;0;S;c;1;o;1"
+    },
+    {
+      "id": "chronicle",
+      "name": "Chronicle",
+      "team": "Fnatic",
+      "code": "0;P;o;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "leo",
+      "name": "Leo",
+      "team": "Fnatic",
+      "code": "0;P;c;4;o;1;0t;1;0l;1;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "derke",
+      "name": "Derke",
+      "team": "Fnatic",
+      "code": "0;s;1;P;o;1;d;1;f;0;s;0;0t;0;0l;1;0o;0;0a;1;0f;0;1t;0;1l;1;1o;0;1a;1;1m;0;1f;0;S;o;1"
+    },
+    {
+      "id": "alfajer",
+      "name": "Alfajer",
+      "team": "Fnatic",
+      "code": "0;s;1;P;c;5;o;1;d;1;z;3;0b;0;1b;0;S;s;0.628;o;1"
+    },
+    {
+      "id": "mixwell",
+      "name": "mixwell",
+      "team": "Heretics",
+      "code": "0;P;c;1;o;1;d;1;0b;0;1b;0"
+    },
+    {
+      "id": "xms",
+      "name": "xms",
+      "team": "KC",
+      "code": "0;P;c;1;o;1;d;1;0b;0;1b;0"
+    },
+    {
+      "id": "scream",
+      "name": "ScreaM",
+      "team": "KC",
+      "code": "0;P;c;5;o;1;d;1;z;3;0t;1;0l;1;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "nivera",
+      "name": "Nivera",
+      "team": "KC",
+      "code": "0;s;1;P;c;1;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;S;c;5;o;0.5"
+    },
+    {
+      "id": "olkonnen",
+      "name": "Olkonnen",
+      "team": "Team Liquid",
+      "code": "0;s;1;P;o;1;d;1;f;0;0b;0;1b;0"
+    },
+    {
+      "id": "soulcas",
+      "name": "Soulcas",
+      "team": "Team Liquid",
+      "code": "0;s;1;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "nats",
+      "name": "nAts",
+      "team": "Team Liquid",
+      "code": "0;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "sayd",
+      "name": "Sayd",
+      "team": "Team Liquid",
+      "code": "0;P;c;7;h;0;d;1;z;3;0b;0;1b;0"
+    },
+    {
+      "id": "redgar",
+      "name": "Redgar",
+      "code": "0;P;c;1;h;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "dimasick",
+      "name": "dimasick",
+      "team": "Team Liquid",
+      "code": "0;P;c;5;o;1;d;1;z;3;0t;1;0l;1;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "cned",
+      "name": "cNed",
+      "team": "NAVI",
+      "code": "0;P;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "ange1",
+      "name": "ANGE1",
+      "team": "NAVI",
+      "code": "0;P;h;0;d;1;f;0;0l;3;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "shao",
+      "name": "Shao",
+      "team": "NAVI",
+      "code": "0;P;c;7;h;0;f;0;m;1;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "zyppan",
+      "name": "Zyppan",
+      "team": "NAVI",
+      "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1t;1;1l;0;1o;0;1m;0;1f;0"
+    },
+    {
+      "id": "suygetsu",
+      "name": "Suygetsu",
+      "team": "NAVI",
+      "code": "0;P;h;0;f;0;s;0;0t;5;0l;20;0o;7;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "qck",
+      "name": "qck",
+      "team": "KRU",
+      "code": "0;p;0;s;1;P;h;0;0l;5;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;f;0;s;0;0b;0;1b;0;S;s;1.263;o;1"
+    },
+    {
+      "id": "mazin",
+      "name": "mazin",
+      "team": "KRU",
+      "code": "0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "silva",
+      "name": "Silva",
+      "team": "KRU",
+      "code": "0;s;1;P;c;4;o;1;m;1;0t;1;0l;1;0a;0;0f;0;1t;1;1l;1;1o;4;1a;0;1m;0;1f;0;S;c;0;s;0.591;o;1"
+    },
+    {
+      "id": "khalil",
+      "name": "khaliL",
+      "team": "KRU",
+      "code": "0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "lopez",
+      "name": "Lopez",
+      "code": "0;s;1;P;c;1;o;1;d;1;0l;0;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;S;c;1;o;1"
+    },
+    {
+      "id": "klaus",
+      "name": "Klaus",
+      "code": "0;P;c;1;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1t;0;1l;0;1a;0"
+    },
+    {
+      "id": "xand",
+      "name": "xand",
+      "code": "0;s;1;P;c;1;o;1;f;0;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;5;s;0.8;o;1"
+    },
+    {
+      "id": "mwzera-serrati",
+      "name": "mwzera' Serrati",
+      "code": "0;P;c;1;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "adverso",
+      "name": "adverso",
+      "code": "0;P;c;7;h;0;0l;3;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "tacolilla",
+      "name": "Tacolilla",
+      "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.75"
+    },
+    {
+      "id": "shyy",
+      "name": "Shyy",
+      "code": "0;P;o;0;0b;0;1l;4;1o;0;1a;1;1m;0;1f;0"
+    },
+    {
+      "id": "nowzerr",
+      "name": "Nowzerr",
+      "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.75"
+    },
+    {
+      "id": "mazino",
+      "name": "Mazino",
+      "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "aspas",
+      "name": "aspas",
+      "team": "LOUD",
+      "code": "0;P;c;5;o;1;d;1;z;3;f;0;0b;0;1b;0"
+    },
+    {
+      "id": "saadhak",
+      "name": "Saadhak",
+      "team": "LOUD",
+      "code": "0;P;c;1;o;1;f;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "less",
+      "name": "Less",
+      "team": "LOUD",
+      "code": "0;P;o;0;0t;1;0l;2;0o;0;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "stax",
+      "name": "Stax",
+      "team": "DRX",
+      "code": "0;P;c;4;h;0;f;0;s;0;0l;4;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "zest",
+      "name": "Zest",
+      "team": "DRX",
+      "code": "0;P;c;5;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "mako",
+      "name": "Mako",
+      "team": "DRX",
+      "code": "0;s;1;P;c;1;o;1;f;0;0l;4;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "haodong",
+      "name": "Haodong",
+      "team": "EDG",
+      "code": "0;s;1;P;c;5;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;S;s;0.64;o;1"
+    },
+    {
+      "id": "life",
+      "name": "Life",
+      "team": "EDG",
+      "code": "0;s;1;P;c;5;h;0;f;0;s;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;s;0.86;o;1"
+    },
+    {
+      "id": "chichoo",
+      "name": "CHICHOO",
+      "team": "EDG",
+      "code": "0;P;c;1;o;1;f;0;s;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "nobody",
+      "name": "nobody",
+      "team": "EDG",
+      "code": "0;s;1;P;c;5;o;1;f;0;0b;0;1t;1;1o;3;1a;1;1m;0;1f;0;S;d;0"
+    },
+    {
+      "id": "zmjjkk",
+      "name": "ZmjjKK",
+      "team": "EDG",
+      "code": "0;p;0;s;1;P;c;7;o;1;f;0;s;0;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1t;0;S;c;0;s;0.591;o;1",
+      "cn": "郑永康"
+    },
+    {
+      "id": "jinggg",
+      "name": "Jinggg",
+      "team": "Paper Rex",
+      "code": "0;s;1;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;S;c;5"
+    },
+    {
+      "id": "mindfreak",
+      "name": "mindfreak",
+      "team": "Paper Rex",
+      "code": "0;P;c;1;h;0;d;1;0l;5;0o;0;0a;1;1b;0"
+    },
+    {
+      "id": "f0rsaken",
+      "name": "f0rsakeN",
+      "team": "Paper Rex",
+      "code": "0;s;1;P;o;1;0t;1;0l;1;0o;4;0a;1;0f;0;1t;1;1l;1;1o;3;1a;0;1m;0;1f;0;S;c;0;o;1"
+    },
+    {
+      "id": "benkai",
+      "name": "Benkai",
+      "team": "Paper Rex",
+      "code": "0;s;1;P;c;8;t;2;o;1;d;1;b;1;a;0.462;f;0;0t;10;0l;14;0v;0;0g;1;0o;5;0a;0.308;0f;0;1t;1;1l;6;1v;0;1g;1;1o;18;1a;0;1m;0;1f;0;S;c;5;s;1.398"
+    },
+    {
+      "id": "d4v41",
+      "name": "d4v41",
+      "team": "Paper Rex",
+      "code": "0;s;1;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0;S;d;0a"
+    },
+    {
+      "id": "fl1pzjder",
+      "name": "fl1pzjder",
+      "code": "0;s;1;P;h;0;f;0;s;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;s;0.9;o;1"
+    },
+    {
+      "id": "tehbotol",
+      "name": "Tehbotol",
+      "code": "0;P;o;0.541;0l;5;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "sayaplayer",
+      "name": "Sayaplayer",
+      "team": "T1",
+      "code": "0;s;1;P;c;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;1;s;0.75;o;1a"
+    },
+    {
+      "id": "foxz",
+      "name": "foxz",
+      "team": "Talon",
+      "code": "0;P;c;1;h;0;f;0;0l;5;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "sushiboys",
+      "name": "sushiboys",
+      "team": "Talon",
+      "code": "0;P;c;5;h;0;f;0;0l;5;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "crws",
+      "name": "Crws",
+      "team": "Talon",
+      "code": "0;c;1;s;1;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0;S;c;1;s;0.884;o;0.798"
+    },
+    {
+      "id": "yoshida",
+      "name": "Yoshida",
+      "code": "0;p;0;c;1;s;1;P;o;1;f;0;m;1;0t;1;0l;3;0a;1;0f;0;1b;0;A;c;7;o;0;d;1;z;3;f;0;s;0;m;1;0t;3;0l;2;0o;0;0a;0.5;0f;0;1b;0;S;d;0"
+    },
+    {
+      "id": "crow",
+      "name": "crow",
+      "code": "0;s;1;P;o;1;f;0;0t;1;0l;1;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.5;o;1"
+    },
+    {
+      "id": "dep",
+      "name": "Dep",
+      "code": "0;s;1;P;o;0.1;f;0;s;0;0t;1;0l;2;0o;1;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "sugarz3ro",
+      "name": "SugarZ3ro",
+      "code": "0;P;c;1;o;1;f;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0"
+    },
+    {
+      "id": "ten",
+      "name": "Ten",
+      "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0"
+    }
+  ]
+}

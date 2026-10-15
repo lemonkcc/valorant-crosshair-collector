@@ -1,0 +1,35 @@
+name: Update crosshairs
+
+on:
+  schedule:
+    # 每天 UTC 03:23（约北京时间 11:23）自动抓取最新准星
+    - cron: '23 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        run: node scraper/fetch.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/crosshairs.json
+          if git diff --cached --quiet; then
+            echo "数据无变化"
+          else
+            git commit -m "chore: update crosshairs data"
+            git push
+          fi
