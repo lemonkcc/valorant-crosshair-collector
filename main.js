@@ -6,7 +6,7 @@ const https = require('https');
 // 远程数据地址：创建 GitHub 仓库并开启 Pages 后填入，例如
 // https://<用户名>.github.io/<仓库名>/data/crosshairs.json
 // 留空则只使用内置数据
-const REMOTE_DATA_URL = '';
+const REMOTE_DATA_URL = 'https://lemonkcc.github.io/valorant-crosshair-collector/data/crosshairs.json';
 
 function readBundledData() {
   try {
